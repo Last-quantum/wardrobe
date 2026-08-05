@@ -1,0 +1,10 @@
+interface:
+  display_name: "AI 数字衣橱"
+  short_description: "无需 API Key，把衣物照片整理成可浏览的数字衣橱"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#5F6F52"
+  default_prompt: "请使用 $build-ai-wardrobe 把我的衣物照片整理成无需 API Key 的本地数字衣橱。"
+
+policy:
+  allow_implicit_invocation: true
