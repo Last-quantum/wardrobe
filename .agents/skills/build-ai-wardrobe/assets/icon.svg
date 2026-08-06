@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">AI digital wardrobe</title>
+  <rect width="512" height="512" rx="112" fill="#F3EFE7"/>
+  <path d="M256 130c0-38 54-42 60-8 4 23-16 31-36 40-13 6-18 17-18 30" fill="none" stroke="#293126" stroke-width="24" stroke-linecap="round"/>
+  <path d="M255 190 104 323c-17 15-7 43 16 43h272c23 0 33-28 16-43L257 190Z" fill="#C86F4A" stroke="#293126" stroke-width="20" stroke-linejoin="round"/>
+  <path d="M171 365h170" stroke="#F3EFE7" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="392" cy="124" r="46" fill="#5F6F52"/>
+  <path d="m392 95 7 20 20 7-20 7-7 20-7-20-20-7 20-7 7-20Z" fill="#F3EFE7"/>
+</svg>

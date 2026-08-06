@@ -15,10 +15,16 @@ Your clothes, extracted and organized with gpt-image.
 
 ![Modeled wardrobe editor](docs/screenshots/editor.png)
 
+## About this fork
+
+This repository is a fork of [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe). It preserves the upstream MIT license and adds a Marvis-oriented, no-user-key case under [`.agents/skills/build-ai-wardrobe`](.agents/skills/build-ai-wardrobe/SKILL.md).
+
+The added skill uses image capabilities supplied by the host platform and does not ask the user for an API key. The original web importer is unchanged and still requires `OPENAI_API_KEY`. See [NOTICE.md](NOTICE.md) for provenance and modification details.
+
 ## Quick start
 
 ```bash
-git clone https://github.com/tandpfun/wardrobe.git
+git clone https://github.com/Last-quantum/wardrobe.git
 cd wardrobe
 npm install
 cp .env.example .env
